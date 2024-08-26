@@ -1,4 +1,5 @@
 # Intermediate Python Concepts
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
 Welcome to the Intermediate Python repository! This repository contains examples and explanations of various intermediate Python concepts to help you deepen your understanding of the language. Whether you're preparing for job interviews, enhancing your coding skills, or just exploring advanced Python topics, this repository is a valuable resource.
 
